@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Acao.gif</file>
+        <file>Diana.png</file>
+        <file>Begin.jpg</file>
+        <file>beginbutton.jpg</file>
+        <file>Main.jpg</file>
+        <file>bullet.jpg</file>
+        <file>Diana2.png</file>
+        <file>Diana3.webp</file>
+        <file>Diana4.webp</file>
+        <file>Gameover.jpg</file>
+        <file>Ava.webp</file>
+        <file>obstacle.jpg</file>
+        <file>title.png</file>
+        <file>rolechoose.png</file>
+        <file>Ava2.webp</file>
+        <file>Ava3.webp</file>
+        <file>Ava4.webp</file>
+        <file>coin.png</file>
+        <file>heart.png</file>
+        <file>avapro.png</file>
+        <file>bellapro.png</file>
+        <file>dianapro.png</file>
+        <file>eileenpro.png</file>
+        <file>pause.png</file>
+        <file>obstacle2.png</file>
+        <file>globalscene_background.png</file>
+        <file>icon2.jpg</file>
+        <file>icon5.gif</file>
+        <file>icon4.gif</file>
+        <file>icon3.jpg</file>
+        <file>icon1.jpg</file>
+        <file>icon_bella.png</file>
+        <file>icon_eileen.png</file>
+        <file>icon_diana.png</file>
+        <file>icon_ava.png</file>
+        <file>shopbackground.png</file>
+        <file>icon6.gif</file>
+        <file>icon7.gif</file>
+        <file>Acao_follow.webp</file>
+        <file>acao_boss.webp</file>
+        <file>bullet_new.png</file>
+    </qresource>
+    <qresource prefix="/bgm">
+        <file>hei.wav</file>
+        <file>bgm.mp3</file>
+        <file>ava_buy_sound.wav</file>
+        <file>diana_buy_sound.wav</file>
+        <file>diana_pain_sound.wav</file>
+        <file>diana_attack_sound.wav</file>
+        <file>eileen_pain_sound.wav</file>
+        <file>ava_attack_sound.wav</file>
+        <file>ava_pain_sound.wav</file>
+    </qresource>
+</RCC>
